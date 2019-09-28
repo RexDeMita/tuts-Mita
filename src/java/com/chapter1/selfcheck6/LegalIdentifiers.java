@@ -1,6 +1,6 @@
-package java.com.chapter1.selfcheck6;
+package com.chapter1.selfcheck6;
 
-public class legalIdentifiers {
+public class LegalIdentifiers {
     public static void main (String[] args){
        //Which of the following can be used in a Java program as identifiers?
 

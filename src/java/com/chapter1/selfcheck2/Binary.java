@@ -1,6 +1,6 @@
-package java.com.chapter1.selfcheck2;
+package com.chapter1.selfcheck2;
 
-public class binary {
+public class Binary {
     public static void main (String [] args) {
        //Convert each of the following decimal numbers into its equivalent binary number:
         //6: 110

@@ -1,6 +1,6 @@
-package java.com.chapter1.selfcheck3;
+package com.chapter1.selfcheck3;
 
-public class cookierecipe {
+public class CookieRecipe {
     public static void main (String[] args){
 
         //describe an algorithm for baking cookies. Assume that you have a large number of hungry friends
