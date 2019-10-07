@@ -25,14 +25,14 @@ public class ParameterMysteryReturn {
     /*
     Write the output of each statement:
 
-        z = mystery(x, z, y); ->
-        System.out.println(x + " " + y + " " + z); ->
-        x = mystery(z, z, x); ->
-        System.out.println(x + " " + y + " " + z); ->
-        y = mystery(y, y, z); ->
-        System.out.println(x + " " + y + " " + z); ->
+        z = mystery(x, z, y); -> 3 0
+        System.out.println(x + " " + y + " " + z); -> 1 2 4
+        x = mystery(z, z, x); -> 4 3
+        System.out.println(x + " " + y + " " + z); -> 5 2 4
+        y = mystery(y, y, z); -> 8 1
+        System.out.println(x + " " + y + " " + z); -> 5 9 4
 
      */
 
-    //TODO: finish this problem
+
 }
