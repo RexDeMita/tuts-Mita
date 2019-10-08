@@ -1,4 +1,4 @@
-package com.chapter3.selfcheck21;
+package com.chapter3.selfcheck22;
 
 import java.util.*;
 
@@ -27,18 +27,21 @@ CENT!
         String last = console.next();
         String sublast = last.substring(1);
 
-        firstname(first, subfirst);
-        lastname(last, sublast);
+        name(first, subfirst);
+        name(last, sublast);
 
 
     }
 
-    public static void firstname(String first, String subfirst){
-        String ucfirst = first.toUpperCase();
-        System.out.println(ucfirst + " " + ucfirst ;
+    public static void name(String name, String ame){
+        String ucfirst = name.toUpperCase();
+        System.out.println(ucfirst + " " + ucfirst + ", bo-B" + ame);
+        System.out.println("Banana-fana fo-F" + ame);
+        System.out.println("Fee-fi-mo-M" + ame);
+        System.out.println(name);
     }
     public static void lastname(String last, String sublast){
 
     }
-    //TODO: finish this problem
+
 }

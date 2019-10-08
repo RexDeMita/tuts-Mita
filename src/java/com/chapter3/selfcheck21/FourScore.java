@@ -1,4 +1,4 @@
-package com.chapter3.selfcheck20;
+package com.chapter3.selfcheck21;
 
 public class FourScore {
     //what indexes must be passed to the substring method to produce the new String with the value "SCORE"?
