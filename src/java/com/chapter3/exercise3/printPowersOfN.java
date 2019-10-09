@@ -1,4 +1,4 @@
-package com.chapter3.exercise2;
+package com.chapter3.exercise3;
 
 public class printPowersOfN {
     /*
