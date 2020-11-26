@@ -1,11 +1,14 @@
 package com.chapter2.Sections;
 
+/**
+ * @author Mita
+ *
+ */
+
+
 public class Section2_5 {
 
-    /**
-     * @author Mita
-     *
-     */
+
 
     //class constant that sets the value of the height of the halves of the hourglass
     public static final int SUB_HEIGHT = 4;
