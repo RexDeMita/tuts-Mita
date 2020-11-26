@@ -12,18 +12,18 @@ public class fibonacci {
     //The first 12 Fibonacci numbers are: 1 1 2 3 5 8 13 21 34 55 89 144
 
     public static void main (String[] args){
-        int num1 = 0;
-        int num2 = 1;
 
-
+        int numOne = 0;
+        int numTwo = 1;
+        int x;
 
         for (int i = 1; i <= 12; i++){
-            System.out.print(num2 + " ");
-            int sum = num1 + num2;
-            num1 = num2;
-            num2 = sum;
+            System.out.print(numTwo + " ");
+            x = numTwo;
+            numTwo = numTwo + numOne;
+            numOne = x;
+
 
         }
-
     }
 }

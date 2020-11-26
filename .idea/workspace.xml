@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 2 reading done">
+      <change afterPath="$PROJECT_DIR$/src/java/com/chapter2/SelfCheck/selfcheck6/DeclareVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter2/Exercises/exercise2/LoopSquqres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter2/Exercises/exercise2/LoopSquqres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter2/Exercises/exercise3/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter2/Exercises/exercise3/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter2/Exercises/exercise8/SpacesAndNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter2/Exercises/exercise8/SpacesAndNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter2/Sections/Section2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter2/Sections/Section2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter2/SelfCheck/selfcheck6/DeclareRealNumberSyntax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter2/SelfCheck/selfcheck7/FitnessVariable.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kWgO7NHb1kmR3PcwGsn0991PQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java/com/chapter1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\furry\Documents\Programming shit\src\java\com\chapter1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpacesAndNumbers">
+    <configuration name="Section2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter2.Sections.Section2_1" />
+      <module name="tuts-Mita" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter2.Sections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter2.Sections.Section2_3" />
+      <module name="tuts-Mita" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter2.Sections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter2.Sections.Section2_5" />
+      <module name="tuts-Mita" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter2.Sections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpacesAndNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter2.Exercises.exercise8.SpacesAndNumbers" />
+      <module name="tuts-Mita" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter2.Exercises.exercise8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter2.Exercises.exercise3.fibonacci" />
+      <module name="tuts-Mita" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter2.Exercises.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpacesAndNumbers" />
+        <item itemvalue="Application.fibonacci" />
+        <item itemvalue="Application.Section2_5" />
+        <item itemvalue="Application.Section2_3" />
+        <item itemvalue="Application.Section2_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="" />
+      <created>1605821728036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605821728036</updated>
+      <workItem from="1605821729170" duration="9457000" />
+      <workItem from="1605896665612" duration="27106000" />
+    </task>
+    <task id="LOCAL-00001" summary="this was a test">
+      <created>1605821999729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605821999729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chapter 1 reading">
+      <created>1605838226299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605838226299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chapter 2.1">
+      <created>1606103443339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606103443339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chapter 2 reading done">
+      <created>1606284177703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606284177703</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chapter 2 reading done">
+      <created>1606330996705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606330996705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this was a test" />
+    <MESSAGE value="Chapter 1 reading" />
+    <MESSAGE value="Chapter 2.1" />
+    <MESSAGE value="Chapter 2 reading done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 reading done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="291" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606242932900">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-2239" y="308" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605822318131" />
+    <state x="321" y="291" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606242932900" />
+    <state x="-844" y="467" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1605833198749">
+      <screen x="-2560" y="17" width="2560" height="1080" />
+    </state>
+    <state x="-844" y="467" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605833198749" />
+    <state x="-1913" y="408" key="FileChooserDialogImpl" timestamp="1605822094844">
+      <screen x="-2560" y="17" width="2560" height="1080" />
+    </state>
+    <state x="-1913" y="408" key="FileChooserDialogImpl/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605822094844" />
+    <state width="1459" height="293" key="GridCell.Tab.0.bottom" timestamp="1606420619735">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.0.bottom/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605896617350" />
+    <state width="1459" height="293" key="GridCell.Tab.0.bottom/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606420619735" />
+    <state width="1459" height="293" key="GridCell.Tab.0.center" timestamp="1606420619735">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.0.center/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605896617349" />
+    <state width="1459" height="293" key="GridCell.Tab.0.center/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606420619735" />
+    <state width="1459" height="293" key="GridCell.Tab.0.left" timestamp="1606420619735">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.0.left/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605896617349" />
+    <state width="1459" height="293" key="GridCell.Tab.0.left/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606420619735" />
+    <state width="1459" height="293" key="GridCell.Tab.0.right" timestamp="1606420619735">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1232" height="294" key="GridCell.Tab.0.right/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605896617350" />
+    <state width="1459" height="293" key="GridCell.Tab.0.right/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606420619735" />
+    <state x="459" y="369" key="Vcs.Push.Dialog.v2" timestamp="1606331002502">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-2101" y="386" key="Vcs.Push.Dialog.v2/-2560.17.2560.1080/0.0.1920.1080@-2560.17.2560.1080" timestamp="1605838237700" />
+    <state x="459" y="369" key="Vcs.Push.Dialog.v2/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606331002502" />
+    <state x="1583" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1606328935242">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1583" y="240" width="672" height="678" key="search.everywhere.popup/0.0.2560.1080/2560.-9.1920.1080@0.0.2560.1080" timestamp="1606328935242" />
+  </component>
+</project>

@@ -142,6 +142,8 @@ public class Section2_5 {
                 // this line prints a |
                 System.out.println("|");
             }
+
+
         }
 
 
