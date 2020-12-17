@@ -1,4 +1,4 @@
-package com.chapter4;
+package com.chapter3G;
 
 public class Test {
 }

@@ -19,61 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3/Sections/Section3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3/Sections/Section3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3/Sections/Section3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3/Sections/Section3_4.java" afterDir="false" />
+    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 3 reading done">
+      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/DrawingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/Section3G_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/Section3G_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/Section3G_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter2/Exercises/exercise8/SpacesAndNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter2/Exercises/exercise8/SpacesAndNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/exercise1/PrintNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/exercise3/printPowersOfN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/exercise4/PrintSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/exercise5/PrintGrid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/exercise6/LargerAbsVal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck1/MethodHeaderSyntax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck10/printStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck11/TermforPrintln.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck12/TempErrors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck13/MathExpressions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck14/ParameterMysteryReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck16/Min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck17/CountQuarters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck18/JamesTKirk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck19/StringExpressions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck2/MysteryNumbs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck21/FourScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck22/TheNameGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck23/ScannerTokensDouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck24/PromptMultiplyBy2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck26/RobertPaulson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck3/Oops3errors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck4/Odds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter3/selfcheck6/ParameterMysteryNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/exercise1/PrintNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/Exercises/exercise1/PrintNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/exercise3/printPowersOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/Exercises/exercise3/printPowersOfN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/exercise4/PrintSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/Exercises/exercise4/PrintSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/exercise5/PrintGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/Exercises/exercise5/PrintGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/exercise6/LargerAbsVal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/Exercises/exercise6/LargerAbsVal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck1/MethodHeaderSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck1/MethodHeaderSyntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck10/printStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck10/printStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck11/TermforPrintln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck11/TermforPrintln.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck12/TempErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck12/TempErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck13/MathExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck13/MathExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck14/ParameterMysteryReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck14/ParameterMysteryReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck16/Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck16/Min.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck17/CountQuarters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck17/CountQuarters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck18/JamesTKirk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck18/JamesTKirk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck19/StringExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck19/StringExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck2/MysteryNumbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck2/MysteryNumbs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck21/FourScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck21/FourScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck22/TheNameGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck22/TheNameGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck23/ScannerTokensDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck23/ScannerTokensDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck24/PromptMultiplyBy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck24/PromptMultiplyBy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck26/RobertPaulson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck26/RobertPaulson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck3/Oops3errors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck3/Oops3errors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck4/Odds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck4/Odds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/selfcheck6/ParameterMysteryNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck6/ParameterMysteryNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter4/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck17/CountQuarters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck17/CountQuarters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/chapter4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,13 +66,26 @@
       <recent name="C:\Users\furry\Documents\Programming shit\src\java\com\chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Section3_4">
-    <configuration name="Section2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter2.Sections.Section2_5" />
+  <component name="RunManager" selected="Application.Section3G_1">
+    <configuration name="CountQuarters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter3.SelfCheck.selfcheck17.CountQuarters" />
       <module name="tuts-Mita" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter2.Sections.*" />
+          <option name="PATTERN" value="com.chapter3.SelfCheck.selfcheck17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section3G_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter3G.Sections.Section3G_1" />
+      <module name="tuts-Mita" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter3G.Sections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,39 +132,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpacesAndNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter2.Exercises.exercise8.SpacesAndNumbers" />
-      <module name="tuts-Mita" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chapter2.Exercises.exercise8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Section3G_1" />
+        <item itemvalue="Application.CountQuarters" />
         <item itemvalue="Application.Section3_4" />
         <item itemvalue="Application.Section3_3" />
         <item itemvalue="Application.Section3_1" />
-        <item itemvalue="Application.Section2_5" />
-        <item itemvalue="Application.SpacesAndNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +165,8 @@
       <workItem from="1605896665612" duration="28470000" />
       <workItem from="1606427674072" duration="667000" />
       <workItem from="1606779248869" duration="2148000" />
-      <workItem from="1606881595398" duration="14612000" />
+      <workItem from="1606881595398" duration="15391000" />
+      <workItem from="1608158379404" duration="10518000" />
     </task>
     <task id="LOCAL-00001" summary="this was a test">
       <created>1605821999729</created>
@@ -264,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606421343337</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapter 3 reading done">
+      <created>1607388877042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607388877042</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +249,7 @@
     <MESSAGE value="Chapter 2 reading done" />
     <MESSAGE value="some Chapter 2 exercises" />
     <MESSAGE value="Chapter 2 exercises done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 exercises done" />
+    <MESSAGE value="Chapter 3 reading done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 reading done" />
   </component>
 </project>
