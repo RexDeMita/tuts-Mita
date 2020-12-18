@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 3 reading done">
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/DrawingPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/Section3G_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/Section3G_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Sections/Section3G_3.java" afterDir="false" />
+    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 3G reading and exercises done">
+      <change afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tuts-Mita/com/chapter4/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck17/CountQuarters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3/SelfCheck/selfcheck17/CountQuarters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/chapter4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/chapter3G/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,13 +127,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,7 +163,8 @@
       <workItem from="1606427674072" duration="667000" />
       <workItem from="1606779248869" duration="2148000" />
       <workItem from="1606881595398" duration="15391000" />
-      <workItem from="1608158379404" duration="10518000" />
+      <workItem from="1608158379404" duration="10558000" />
+      <workItem from="1608265684350" duration="4339000" />
     </task>
     <task id="LOCAL-00001" summary="this was a test">
       <created>1605821999729</created>
@@ -224,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607388877042</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Chapter 3G reading and exercises done">
+      <created>1608187232257</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608187232257</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +255,7 @@
     <MESSAGE value="some Chapter 2 exercises" />
     <MESSAGE value="Chapter 2 exercises done" />
     <MESSAGE value="Chapter 3 reading done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 reading done" />
+    <MESSAGE value="Chapter 3G reading and exercises done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3G reading and exercises done" />
   </component>
 </project>
