@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 3G reading and exercises done">
-      <change afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_2.java" afterDir="false" />
+    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 4.1 reading done">
+      <change afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +164,7 @@
       <workItem from="1606779248869" duration="2148000" />
       <workItem from="1606881595398" duration="15391000" />
       <workItem from="1608158379404" duration="10558000" />
-      <workItem from="1608265684350" duration="4339000" />
+      <workItem from="1608265684350" duration="8375000" />
     </task>
     <task id="LOCAL-00001" summary="this was a test">
       <created>1605821999729</created>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608187232257</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Chapter 4.1 reading done">
+      <created>1608271039068</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608271039068</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +263,7 @@
     <MESSAGE value="Chapter 2 exercises done" />
     <MESSAGE value="Chapter 3 reading done" />
     <MESSAGE value="Chapter 3G reading and exercises done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3G reading and exercises done" />
+    <MESSAGE value="Chapter 4.1 reading done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4.1 reading done" />
   </component>
 </project>
