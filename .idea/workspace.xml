@@ -19,9 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 4.3 reading done">
+    <list default="true" id="f769fc0a-ade1-4d1c-8ac1-978799d4a431" name="Default Changelist" comment="Chapter 4.4 reading done">
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/ArrayCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Jumping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Test/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Test/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Test/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/Chapter4/Sections/Section4_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +70,13 @@
       <recent name="C:\Users\furry\Documents\Programming shit\src\java\com\chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Section3G_1">
-    <configuration name="CountQuarters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter3.SelfCheck.selfcheck17.CountQuarters" />
+  <component name="RunManager" selected="Application.Foo">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edXStuff.Course2.Week1.Debugging.Array" />
       <module name="tuts-Mita" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter3.SelfCheck.selfcheck17.*" />
+          <option name="PATTERN" value="edXStuff.Course2.Week1.Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section3G_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter3G.Sections.Section3G_1" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edXStuff.Course2.Week1.Debugging.Factorial" />
       <module name="tuts-Mita" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter3G.Sections.*" />
+          <option name="PATTERN" value="edXStuff.Course2.Week1.Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter3.Sections.Section3_1" />
+    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edXStuff.Course2.Week1.Debugging.Foo" />
       <module name="tuts-Mita" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter3.Sections.*" />
+          <option name="PATTERN" value="edXStuff.Course2.Week1.Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter3.Sections.Section3_3" />
+    <configuration name="Jumping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edXStuff.Course2.Week1.Debugging.Jumping" />
       <module name="tuts-Mita" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter3.Sections.*" />
+          <option name="PATTERN" value="edXStuff.Course2.Week1.Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter3.Sections.Section3_4" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edXStuff.Course2.Week1.Debugging.Main" />
       <module name="tuts-Mita" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter3.Sections.*" />
+          <option name="PATTERN" value="edXStuff.Course2.Week1.Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,26 +136,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Section3G_1" />
-        <item itemvalue="Application.CountQuarters" />
-        <item itemvalue="Application.Section3_4" />
-        <item itemvalue="Application.Section3_3" />
-        <item itemvalue="Application.Section3_1" />
+        <item itemvalue="Application.Foo" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Jumping" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +171,9 @@
       <workItem from="1606779248869" duration="2148000" />
       <workItem from="1606881595398" duration="15391000" />
       <workItem from="1608158379404" duration="10558000" />
-      <workItem from="1608265684350" duration="10912000" />
+      <workItem from="1608265684350" duration="11271000" />
+      <workItem from="1612912979266" duration="56000" />
+      <workItem from="1612913185642" duration="8350000" />
     </task>
     <task id="LOCAL-00001" summary="this was a test">
       <created>1605821999729</created>
@@ -242,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608531768282</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Chapter 4.4 reading done">
+      <created>1608792050842</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608792050842</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +288,23 @@
     <MESSAGE value="Chapter 3G reading and exercises done" />
     <MESSAGE value="Chapter 4.1 reading done" />
     <MESSAGE value="Chapter 4.3 reading done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4.3 reading done" />
+    <MESSAGE value="Chapter 4.4 reading done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4.4 reading done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Factorial.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java/edXStuff/Course2/Week1/Debugging/Array.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
